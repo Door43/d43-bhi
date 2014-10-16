@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bhi:home|Door43 (bhi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bhi|d43-bhi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bhi/archive/master.zip|d43-bhi.zip]]
+
+**Recent Changes**
+{{changes>ns = bhi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bhi|Ethnologue data]]
+
